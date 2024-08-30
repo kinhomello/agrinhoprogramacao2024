@@ -1,6 +1,5 @@
 body {
     background-color: #30995A;
-    color: white;
     padding: 0;
     margin: 0;
 }
@@ -10,5 +9,15 @@ body {
     background-color: #264e36;
     color: white;
     font-family: "Kameron";
-    font-size: 56px;
+    font-size: 74px;
+    text-align: center;
+    line-height: 100px;
+}
+
+.subtexto {
+    color: white;
+    font-family: "Kameron";
+    font-size: 32px;
+    text-align: center;
+    margin: 25px;
 }
