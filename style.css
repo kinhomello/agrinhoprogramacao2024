@@ -1,4 +1,11 @@
-.imagem-logo{
-    width: 150px;
-    height: 150px;
+body {
+    background-color: #30995A;
+}
+
+.cabecalho {
+    height: 100px;
+    background-color: #264e36;
+    color: white;
+    font-family: "Kameron";
+    font-size: 56px;
 }
